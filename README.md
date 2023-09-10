@@ -300,6 +300,11 @@ This document tends to update on continuous iteration. However it’s purpose is
 
 </details>
 
+
+
+<details>
+<summary>Software Engineer</summary>
+  
 ### **Software Engineer (SE)**
 
 ### Technical Expectations
@@ -410,6 +415,11 @@ This document tends to update on continuous iteration. However it’s purpose is
 - [ ]  Shares knowledge through presentations or documentation.
 - [ ]  Open to cross-functional roles and responsibilities.
 - [ ]  Shows ethical leadership and professionalism.
+
+
+</details>
+<details>
+<summary>Senior Software Engineer</summary>
 
 ### **Senior Software Engineer**
 
@@ -605,6 +615,11 @@ This document tends to update on continuous iteration. However it’s purpose is
 - [ ]  Champions innovation and encourages continuous learning.
 - [ ]  Responsible for the overall culture and well-being of the engineering team.
 
+
+
+<details>
+<summary>Associate Architect</summary>
+
 ### **Associate Architect**
 
 ### Technical Expectations
@@ -720,6 +735,10 @@ This document tends to update on continuous iteration. However it’s purpose is
 8. Defines and communicates the architectural vision and strategy.
 9. Serves as the final arbitrator in architectural debates.
 10. Drives organizational change around architectural practices.
+
+
+</details>
+
 
 ### **Associate Manager**
 
