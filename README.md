@@ -14,11 +14,7 @@ This document tends to update on continuous iteration. However it’s purpose is
 ---
 
 <details>
-<summary>Click to toggle contents of `code`</summary>
-
-```
-CODE!
-```
+<summary>### **Trainee**</summary>
 
 ### **Trainee**
 
