@@ -14,7 +14,7 @@ This document tends to update on continuous iteration. However it’s purpose is
 ---
 
 <details>
-<summary>### **Trainee**</summary>
+<summary>Trainee</summary>
 
 ### **Trainee**
 
@@ -200,6 +200,8 @@ This document tends to update on continuous iteration. However it’s purpose is
 
 </details>
 
+<details>
+<summary>Associate Software Engineer</summary>
 
 ### **Associate Software Engineer (ASE)**
 
@@ -295,6 +297,8 @@ This document tends to update on continuous iteration. However it’s purpose is
 - [ ]  Knows when and how to escalate issues.
 - [ ]  Takes initiative in self-learning and career development.
 - [ ]  Begins to show interest in specialized areas like system architecture or machine learning.
+
+</details>
 
 ### **Software Engineer (SE)**
 
