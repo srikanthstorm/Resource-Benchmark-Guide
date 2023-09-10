@@ -682,6 +682,10 @@ This document tends to update on continuous iteration. However it’s purpose is
 9. Skilled in documenting architectural decisions and rationales.
 10. Champions the sharing of architectural knowledge across teams.
 
+
+</details>
+<details>
+<summary>Trainee</summary>
 ### **Architect**
 
 ### Technical Expectations
