@@ -685,7 +685,7 @@ This document tends to update on continuous iteration. However it’s purpose is
 
 </details>
 <details>
-<summary>Trainee</summary>
+<summary>Architect</summary>
 ### **Architect**
 
 ### Technical Expectations
