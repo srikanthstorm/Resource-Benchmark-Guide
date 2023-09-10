@@ -13,6 +13,13 @@ This document tends to update on continuous iteration. However it’s purpose is
 
 ---
 
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+CODE!
+```
+
 ### **Trainee**
 
 ### Technical Expectations
@@ -194,6 +201,9 @@ This document tends to update on continuous iteration. However it’s purpose is
 - [ ]  Capable of following directions and guidelines.
 - [ ]  Shows respect for company culture and co-workers.
 - [ ]  Makes an effort to understand the business context of their tasks.
+
+</details>
+
 
 ### **Associate Software Engineer (ASE)**
 
