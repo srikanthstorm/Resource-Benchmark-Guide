@@ -518,6 +518,10 @@ This document tends to update on continuous iteration. However it’s purpose is
 - [ ]  Understands and leverages team dynamics for project success.
 - [ ]  Engages in strategic planning with higher management.
 
+</details>
+<details>
+<summary>Lead Software Engineer</summary>
+
 ### **Lead Software Engineer**
 
 ### Technical Expectations
@@ -616,7 +620,7 @@ This document tends to update on continuous iteration. However it’s purpose is
 - [ ]  Responsible for the overall culture and well-being of the engineering team.
 
 
-
+</details>
 <details>
 <summary>Associate Architect</summary>
 
@@ -739,6 +743,8 @@ This document tends to update on continuous iteration. However it’s purpose is
 
 </details>
 
+<details>
+<summary>Associate Manager</summary>
 
 ### **Associate Manager**
 
@@ -778,6 +784,10 @@ This document tends to update on continuous iteration. However it’s purpose is
 4. Fosters a positive and inclusive team culture.
 5. Ensures workload is evenly distributed among team members.
 
+
+</details>
+<details>
+<summary>Manager</summary>
 ### **Manager**
 
 ### Technical Expectations
@@ -817,7 +827,7 @@ This document tends to update on continuous iteration. However it’s purpose is
 5. Develops and maintains a healthy, inclusive, and productive work environment.
 
 ---
-
+</details>
 **Helpful Resources for Learning**
 
 Code Standards & Refactoring: https://github.com/srikanthstorm/Learning-Resources/blob/main/refactoring-en-java.pdf
